@@ -1,6 +1,5 @@
 class moreBlocks {
     constructor() {
-        this.runtime = runtime;
     }
 
     getInfo() {
